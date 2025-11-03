@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|c:\\users\\vkasi\\source\\repos\\labcalculator\\labcalculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|solutionrelative:labcalculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|c:\\users\\vkasi\\source\\repos\\labcalculator\\labcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|solutionrelative:labcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|c:\\users\\vkasi\\source\\repos\\labcalculator\\labcalculator\\labcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|solutionrelative:labcalculator\\labcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|c:\\users\\vkasi\\source\\repos\\labcalculator\\labcalculator\\labcalculator.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|solutionrelative:labcalculator\\labcalculator.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|c:\\users\\vkasi\\source\\repos\\labcalculator\\labcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|solutionrelative:labcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|c:\\users\\vkasi\\source\\repos\\labcalculator\\labcalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|solutionrelative:labcalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|c:\\users\\vkasi\\source\\repos\\labcalculator\\labcalculator\\labcalculatorvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|solutionrelative:labcalculator\\labcalculatorvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|c:\\users\\vkasi\\source\\repos\\labcalculator\\labcalculator\\throwexceptionerrorlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01112332-2E34-4F5E-AD47-B783636BC9DE}|LabCalculator\\LabCalculator.csproj|solutionrelative:labcalculator\\throwexceptionerrorlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabCalculator",
+              "DocumentMoniker": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
+              "RelativeDocumentMoniker": "LabCalculator\\LabCalculator.csproj",
+              "ToolTip": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
+              "RelativeToolTip": "LabCalculator\\LabCalculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T17:19:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabCalculator.g4",
+              "DocumentMoniker": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.g4",
+              "RelativeDocumentMoniker": "LabCalculator\\LabCalculator.g4",
+              "ToolTip": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.g4",
+              "RelativeToolTip": "LabCalculator\\LabCalculator.g4",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-03T17:17:31.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThrowExceptionErrorListener.cs",
+              "DocumentMoniker": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\ThrowExceptionErrorListener.cs",
+              "RelativeDocumentMoniker": "LabCalculator\\ThrowExceptionErrorListener.cs",
+              "ToolTip": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\ThrowExceptionErrorListener.cs",
+              "RelativeToolTip": "LabCalculator\\ThrowExceptionErrorListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:09:11.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "LabCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\Program.cs",
+              "RelativeToolTip": "LabCalculator\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:09:10.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LabCalculatorVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculatorVisitor.cs",
+              "RelativeDocumentMoniker": "LabCalculator\\LabCalculatorVisitor.cs",
+              "ToolTip": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculatorVisitor.cs",
+              "RelativeToolTip": "LabCalculator\\LabCalculatorVisitor.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwGMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:09:09.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LabCalculator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\Form1.Designer.cs",
+              "RelativeToolTip": "LabCalculator\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:09:07.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "LabCalculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\Calculator.cs",
+              "RelativeToolTip": "LabCalculator\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:09:04.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "LabCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "LabCalculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:09:06.329Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

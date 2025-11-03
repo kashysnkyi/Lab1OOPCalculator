@@ -1,0 +1,37 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Maui / Android / iOS
+*.apk
+*.aab
+*.ipa
+*.keystore
+platforms/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# macOS
+.DS_Store
+
+# Windows Explorer
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+*.iml

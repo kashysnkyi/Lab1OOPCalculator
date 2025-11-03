@@ -1,0 +1,1 @@
+C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\MyExcelMAUIApp.csproj;x64
