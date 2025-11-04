@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\LabCalculator.g4 by ANTLR 4.6.6
+// Generated from C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\LabCalculator.g4 by ANTLR 4.6.6
 
 // Unreachable code detected
 #pragma warning disable 0162

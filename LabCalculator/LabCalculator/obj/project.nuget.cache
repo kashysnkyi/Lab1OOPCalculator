@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HT7fCp7gmEY=",
+  "dgSpecHash": "p3ngr/XDEdQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
+  "projectFilePath": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vkasi\\.nuget\\packages\\antlr4\\4.6.6\\antlr4.4.6.6.nupkg.sha512",
     "C:\\Users\\vkasi\\.nuget\\packages\\antlr4.codegenerator\\4.6.6\\antlr4.codegenerator.4.6.6.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s6FP+Y4knnk=",
+  "dgSpecHash": "//pYhbE0Os0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vkasi\\source\\repos\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj",
+  "projectFilePath": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vkasi\\.nuget\\packages\\antlr4.runtime\\4.6.6\\antlr4.runtime.4.6.6.nupkg.sha512",
     "C:\\Users\\vkasi\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

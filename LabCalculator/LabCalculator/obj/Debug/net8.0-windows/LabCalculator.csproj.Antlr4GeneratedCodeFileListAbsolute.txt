@@ -1,6 +1,6 @@
-C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorLexer.cs
-C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorParser.cs
-C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorListener.cs
-C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorBaseListener.cs
-C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorVisitor.cs
-C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorBaseVisitor.cs
+C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorLexer.cs
+C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorParser.cs
+C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorListener.cs
+C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorBaseListener.cs
+C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorVisitor.cs
+C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\LabCalculatorBaseVisitor.cs

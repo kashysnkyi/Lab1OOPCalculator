@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vkasi\\source\\repos\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj": {}
+    "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj": {
+    "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\LabCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
         "projectName": "LabCalculator",
-        "projectPath": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
+        "projectPath": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
         "packagesPath": "C:\\Users\\vkasi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\obj\\",
+        "outputPath": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\vkasi\\source\\repos\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj": {
+    "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vkasi\\source\\repos\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj",
+        "projectUniqueName": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj",
         "projectName": "MyExcelMAUIApp",
-        "projectPath": "C:\\Users\\vkasi\\source\\repos\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj",
+        "projectPath": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\MyExcelMAUIApp\\MyExcelMAUIApp\\MyExcelMAUIApp.csproj",
         "packagesPath": "C:\\Users\\vkasi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vkasi\\source\\repos\\MyExcelMAUIApp\\MyExcelMAUIApp\\obj\\",
+        "outputPath": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\MyExcelMAUIApp\\MyExcelMAUIApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -114,8 +114,8 @@
           "net8.0-windows10.0.19041": {
             "targetAlias": "net8.0-windows10.0.19041.0",
             "projectReferences": {
-              "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj": {
-                "projectPath": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj"
+              "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\LabCalculator.csproj": {
+                "projectPath": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\LabCalculator.csproj"
               }
             }
           }

@@ -4365,11 +4365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
       "projectName": "LabCalculator",
-      "projectPath": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
+      "projectPath": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\LabCalculator.csproj",
       "packagesPath": "C:\\Users\\vkasi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vkasi\\source\\repos\\LabCalculator\\LabCalculator\\obj\\",
+      "outputPath": "C:\\Users\\vkasi\\source\\repos\\Lab1Calculator\\LabCalculator\\LabCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LabCalculator
-build_property.ProjectDir = C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\
+build_property.ProjectDir = C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

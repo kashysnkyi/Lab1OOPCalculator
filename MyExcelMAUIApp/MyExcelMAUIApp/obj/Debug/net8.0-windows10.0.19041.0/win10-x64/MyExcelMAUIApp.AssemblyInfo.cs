@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyExcelMAUIApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+41537c4e742f906503a7d34f49f163aaeef5ca02")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyExcelMAUIApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyExcelMAUIApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

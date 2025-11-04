@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.myexcelmauiapp</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>AB327E29889B37255542DFB46F7C161E6C96EFE42B705C31E7C58E05BB900B93</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.myexcelmauiapp_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.myexcelmauiapp_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,276 +26,44 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-11-03T20:18:21.851</Modified>
+      <Modified>2025-11-04T07:45:22.566</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-11-03T18:28:44.858</Modified>
+      <Modified>2025-11-04T07:22:54.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyExcelMAUIApp.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyExcelMAUIApp.runtimeconfig.json">
       <PackagePath>MyExcelMAUIApp.runtimeconfig.json</PackagePath>
-      <Modified>2025-11-03T18:28:44.631</Modified>
+      <Modified>2025-11-04T07:45:21.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyExcelMAUIApp.dll">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyExcelMAUIApp.dll">
       <PackagePath>MyExcelMAUIApp.dll</PackagePath>
-      <Modified>2025-11-03T20:18:21.481</Modified>
+      <Modified>2025-11-04T07:45:19.277</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\obj\Debug\net8.0-windows\apphost.exe">
       <PackagePath>LabCalculator.exe</PackagePath>
-      <Modified>2025-11-03T19:41:24.442</Modified>
+      <Modified>2025-11-04T07:44:50.944</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MyExcelMAUIApp.exe</PackagePath>
-      <Modified>2025-11-03T20:18:21.485</Modified>
+      <Modified>2025-11-04T07:45:19.383</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\bin\Debug\net8.0-windows\LabCalculator.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\bin\Debug\net8.0-windows\LabCalculator.runtimeconfig.json">
       <PackagePath>LabCalculator.runtimeconfig.json</PackagePath>
-      <Modified>2025-11-03T18:26:21.138</Modified>
+      <Modified>2025-11-04T07:44:51.360</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2025-11-03T15:37:10.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
-      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-11-03T18:26:26.701</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
-      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-11-03T18:26:26.714</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
-      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-11-03T18:26:26.742</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
-      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-11-03T18:26:26.770</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
-      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-11-03T18:26:26.880</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
-      <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2025-11-03T15:37:10.273</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
-      <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2025-11-03T15:37:10.275</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
-      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.389</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.388</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.388</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.388</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
-      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.388</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.391</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.391</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
-      <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.392</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.391</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.391</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.391</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.391</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.390</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.389</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.389</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.389</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.389</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
-      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.389</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.395</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.395</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.395</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.395</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-11-03T18:26:28.393</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyExcelMAUIApp.deps.json">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyExcelMAUIApp.deps.json">
       <PackagePath>MyExcelMAUIApp.deps.json</PackagePath>
-      <Modified>2025-11-03T18:28:44.629</Modified>
+      <Modified>2025-11-04T07:45:21.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vkasi\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -581,13 +349,13 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-07T06:05:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\bin\Debug\net8.0-windows\LabCalculator.dll">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\bin\Debug\net8.0-windows\LabCalculator.dll">
       <PackagePath>LabCalculator.dll</PackagePath>
-      <Modified>2025-11-03T19:41:24.436</Modified>
+      <Modified>2025-11-04T07:44:50.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\LabCalculator\LabCalculator\bin\Debug\net8.0-windows\LabCalculator.deps.json">
+    <AppxPackagedFile Include="C:\Users\vkasi\source\repos\Lab1Calculator\LabCalculator\LabCalculator\bin\Debug\net8.0-windows\LabCalculator.deps.json">
       <PackagePath>LabCalculator.deps.json</PackagePath>
-      <Modified>2025-11-03T18:28:42.634</Modified>
+      <Modified>2025-11-04T07:44:51.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vkasi\.nuget\packages\microsoft.maui.controls.compatibility\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

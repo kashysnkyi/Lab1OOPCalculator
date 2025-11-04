@@ -1,1 +1,1 @@
-C:\Users\vkasi\source\repos\MyExcelMAUIApp\MyExcelMAUIApp\MyExcelMAUIApp.csproj;x64
+C:\Users\vkasi\source\repos\Lab1Calculator\MyExcelMAUIApp\MyExcelMAUIApp\MyExcelMAUIApp.csproj;x64
